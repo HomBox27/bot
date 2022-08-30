@@ -1,6 +1,6 @@
 ﻿const Discord = require("discord.js");
   const kboosh = new Discord.Client();
-    const kbooshtoken = "NTIwNjQyMzI1NTEzMjQwNTg3.DvArGw.D_PRpQC_6kMs3XsptdQWrXpMbr4"
+    const kbooshtoken = "NTg2NjYwNjIyOTE4NDg0MDA4.G1toLH.i4FazV7nctmJOCWnjvScZHq5DGf0NBKyuw7MCs"
       kboosh.on('ready', () => {
         kboosh.user.setGame(`TiGeR BroadCast`,'https://www.twitch.tv/TiGeR-Broadcast');
           console.log('Im Ready!');
